@@ -12,7 +12,7 @@ export interface Weather {
     speed: number;
   };
   sys: {
-    countr: string;
+    country: string;
   };
   name: string;
 }
